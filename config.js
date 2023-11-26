@@ -17,8 +17,8 @@ global.owner = [
 global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
-global.packname = 'Sticker';
-global.author = 'Dress - Bot';
+global.packname = 'ᴅʀͥᴇsͣsͫ - ʙᷱᴏⷮᴛⷬ';
+global.author = '🔥⃟⃟𑶕⃛Disgui፝֟sedः⃝⃟💀';
 global.wm = 'Dress - Bot';
 global.titulowm = 'The Mystic - Bot';
 global.titulowm2 = `The Mystic - Bot`
