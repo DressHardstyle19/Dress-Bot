@@ -14,39 +14,39 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 *<𝔸𝔾ℝ𝔼𝔾𝔸ℝ 𝔸 𝕃𝔸 𝕃𝕀𝕊𝕋𝔸/>*
 
-° ඬ⃟🗳️ _${usedPrefix}agregarmsg *<texto/comando/palabra clave>* (responde a un texto)_
-° ඬ⃟🗳️ _${usedPrefix}agregarvn *<texto/comando/palabra clave>* (responde a una nota de voz)_
-° ඬ⃟🗳️ _${usedPrefix}agregarvideo *<texto/comando/palabra clave>* (responde a un video)_
-° ඬ⃟🗳️ _${usedPrefix}agregaraudio *<texto/comando/palabra clave>* (responde a un audio)_
-° ඬ⃟🗳️ _${usedPrefix}agregarimg *<texto/comando/palabra clave>* (responde a una imagen)_
-° ඬ⃟🗳️ _${usedPrefix}agregarsticker *<texto/comando/palabra clave>* (responde a un sticker)_
+° │🍒⃟𑶕➣ _${usedPrefix}agregarmsg *<texto/comando/palabra clave>* (responde a un texto)_
+° │🍒⃟𑶕➣ _${usedPrefix}agregarvn *<texto/comando/palabra clave>* (responde a una nota de voz)_
+° │🍒⃟𑶕➣ _${usedPrefix}agregarvideo *<texto/comando/palabra clave>* (responde a un video)_
+° │🍒⃟𑶕➣ _${usedPrefix}agregaraudio *<texto/comando/palabra clave>* (responde a un audio)_
+° │🍒⃟𑶕➣ _${usedPrefix}agregarimg *<texto/comando/palabra clave>* (responde a una imagen)_
+° │🍒⃟𑶕➣ _${usedPrefix}agregarsticker *<texto/comando/palabra clave>* (responde a un sticker)_
 
 *<𝕃𝕀𝕊𝕋𝔸 𝔻𝔼 ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊/>*
 
-° ඬ⃟🗳️ _${usedPrefix}listamsg_
-° ඬ⃟🗳️ _${usedPrefix}listavn_
-° ඬ⃟🗳️ _${usedPrefix}listavideo_
-° ඬ⃟🗳️ _${usedPrefix}listaaudio_
-° ඬ⃟🗳️ _${usedPrefix}listaimg_
-° ඬ⃟🗳️ _${usedPrefix}listasticker_
+° │🍒⃟𑶕➣ _${usedPrefix}listamsg_
+° │🍒⃟𑶕➣ _${usedPrefix}listavn_
+° │🍒⃟𑶕➣ _${usedPrefix}listavideo_
+° │🍒⃟𑶕➣ _${usedPrefix}listaaudio_
+° │🍒⃟𑶕➣ _${usedPrefix}listaimg_
+° │🍒⃟𑶕➣ _${usedPrefix}listasticker_
 
 *<𝕍𝔼ℝ 𝕋𝔼𝕏𝕋𝕆𝕊 𝕆 𝔸ℝℂℍ𝕀𝕍𝕆𝕊/>*
 
-° ඬ⃟🗳️ _${usedPrefix}vermsg *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}vervn *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}vervideo *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}veraudio *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}verimg *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}versticker *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}vermsg *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}vervn *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}vervn *<texto/comando/palabra clave>*_ _${usedPrefix}vervideo *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}vervn *<texto/comando/palabra clave>*_ _${usedPrefix}veraudio *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}vervn *<texto/comando/palabra clave>*_ _${usedPrefix}verimg *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}versticker *<texto/comando/palabra clave>*_
 
 *<𝔼𝕃𝕀𝕄𝕀ℕ𝔸ℝ/>*
 
-° ඬ⃟🗳️ _${usedPrefix}eliminarmsg *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}eliminarvn *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}eliminarvideo *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}eliminaraudio *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}eliminarimg *<texto/comando/palabra clave>*_
-° ඬ⃟🗳️ _${usedPrefix}eliminarsticker *<texto/comando/palabra clave>*_`.trim();
+° │🍒⃟𑶕➣ _${usedPrefix}eliminarmsg *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}eliminarvn *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}eliminarvideo *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}eliminaraudio *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}eliminarimg *<texto/comando/palabra clave>*_
+° │🍒⃟𑶕➣ _${usedPrefix}eliminarsticker *<texto/comando/palabra clave>*_`.trim();
     if (m.isGroup) {
       conn.sendMessage(m.chat, {image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net')}, {quoted: m});
     } else {
